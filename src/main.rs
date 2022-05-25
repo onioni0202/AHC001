@@ -1,6 +1,6 @@
 // AHC001
 // Problem: https://atcoder.jp/contests/ahc001/tasks/ahc001_a
-// Submission: 
+// Submission: https://atcoder.jp/contests/ahc001/submissions/31952396
 
 use proconio::input;
 use rand::prelude::*;
